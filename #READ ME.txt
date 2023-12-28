@@ -1,0 +1,3 @@
+#READ ME 
+
+1. Day 1 - Setup React Project
